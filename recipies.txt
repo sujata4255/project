@@ -7,3 +7,5 @@ shira
 upit
 pohe
 kheer
+
+chiken viken
